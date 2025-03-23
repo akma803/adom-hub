@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "😈cop hub😈", HidePremium = false, SaveConfig = true, ConfigFolder = "مطور السكربت marwan and adam"})
+local Window = OrionLib:MakeWindow({Name = "teem R2 hub", HidePremium = false, SaveConfig = true, ConfigFolder = "مطور السكربت marwan and adam"})
 
 
 local Tab = Window:MakeTab({
